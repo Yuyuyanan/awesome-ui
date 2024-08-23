@@ -3,9 +3,8 @@
 Resource for everything related to UI / UX. Contributions are welcome, just do a pull request!
 
 
-## License
-
-MIT
+## Trending
+0. [Trending](https://github.com/whatwhatgoose/trending/issues)
 
 ## Contribute
 
